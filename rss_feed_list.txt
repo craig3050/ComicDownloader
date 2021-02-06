@@ -1,0 +1,11 @@
+https://www.comicsrss.com/rss/dilbert.rss
+https://xkcd.com/atom.xml
+https://www.comicsrss.com/rss/dilbert-classics.rss
+https://www.smbc-comics.com/comic/rss
+http://feeds.feedburner.com/LICD?format=xml
+http://feeds.feedburner.com/channelATE?format=xml
+https://explosm-1311.appspot.com/
+https://qwantz.com/rssfeed.php
+https://www.savagechickens.com/feed
+http://www.basicinstructions.net/
+http://feeds.feedburner.com/oatmealfeed?format=xml
